@@ -6,32 +6,32 @@
 * Date completed: 29 Oct 2026
 
 ## Security groups
-![LoadBalancerSecurityGroup](images/01-sg-load-balancer.png)
-![LaunchTemplateSecurityGroup](images/02-sg-launch-template.png)
+![LoadBalancerSecurityGroup](images/01-sg-load-balancer.jpg)
+![LaunchTemplateSecurityGroup](images/02-sg-launch-template.jpg)
 
 ## Target group
-![Target group](images/03-target-group.png)
-![Health checks](images/04-health-checks.png)
+![Target group](images/03-target-group.jpg)
+![Health checks](images/04-health-checks.jpg)
 
 ## Application Load Balancer
-![Load balancer list](images/05-load-balancer-list.png)
-![Load balancer details](images/06-load-balancer-details.png)
+![Load balancer list](images/05-load-balancer-list.jpg)
+![Load balancer details](images/06-load-balancer-details.jpg)
 
 ## Launch template
-![Launch template](images/07-launch-template.png)
+![Launch template](images/07-launch-template.jpg)
 
 ## Auto Scaling group
-![ASG list](images/08-asg-list.png)
-![ASG details](images/09-asg-details.png)
+![ASG list](images/08-asg-list.jpg)
+![ASG details](images/09-asg-details.jpg)
 
 ## Load balancing test
-![Browser 1](images/10-browser-1.png)
-![Browser 2](images/11-browser-2.png)
+![Browser 1](images/10-browser-1.jpg)
+![Browser 2](images/11-browser-2.jpg)
 
 ## Simulated application failure
-![Stop httpd](images/12-stop-httpd.png)
-![Target unhealthy](images/13-target-unhealthy.png)
-![Target replaced](images/14-target-replaced.png)
+![Stop httpd](images/12-stop-httpd.jpg)
+![Target unhealthy](images/13-target-unhealthy.jpg)
+![Target replaced](images/14-target-replaced.jpg)
 
 About how many minutes passed between stopping `httpd` and the new instance becoming healthy? About XX minutes.
 
